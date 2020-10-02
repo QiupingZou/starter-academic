@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "业务范围"
 subtitle = ""
 
 [content]
@@ -31,15 +31,15 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "环境影响评价"
-     tag = "enviroment"
+     tag = "环境影响评价"
      
    [[content.filter_button]]
      name = "社会稳定风险评估"
-     tag = "society"
+     tag = "社会稳定风险评估"
      
    [[content.filter_button]]
      name = "通航安全评估"
-     tag = "traffic"
+     tag = "通航安全评估"
      
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
