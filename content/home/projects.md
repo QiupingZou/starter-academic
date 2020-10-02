@@ -26,13 +26,21 @@ subtitle = ""
      tag = "*"
    
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "安全评价"
+     tag = "safety"
   
    [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
-
+     name = "环境影响评价"
+     tag = "enviroment"
+     
+   [[content.filter_button]]
+     name = "社会稳定风险评估"
+     tag = "society"
+     
+   [[content.filter_button]]
+     name = "通航安全评估"
+     tag = "traffic"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
