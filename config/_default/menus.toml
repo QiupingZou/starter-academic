@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "业绩展示"
+  name = "公示"
   url = "#posts"
   weight = 20
 
