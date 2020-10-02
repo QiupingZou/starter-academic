@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "营业执照"
-  url = "#featured"
-  weight = 40
-
-[[main]]
   name = "业绩展示"
   url = "#posts"
   weight = 20
