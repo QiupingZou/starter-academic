@@ -11,9 +11,5 @@ view: 2
 header:
   caption: ""
   image: ""
-  
-links:
-- name: Custom Link
-  url_code: "test.png"
-  
+
 ---
