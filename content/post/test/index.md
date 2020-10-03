@@ -1,13 +1,14 @@
 ---
 title: "测试"
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: false
 
 links:
 - name: 文件链接
-url_code: 'test.png'
+  url: 'test.png'
+# url_code: 'test.png'
 
 
 # Associated Projects (optional).
