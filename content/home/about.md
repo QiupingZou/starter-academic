@@ -7,13 +7,6 @@ weight = 20  # Order that this section will appear in.
 
 title = "企业介绍"
 
-# Background image.
-image = "background.png"
-image_darken = 0.6
-image_size = "cover"
-image_position = "center"
-image_parallax = true
-
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
