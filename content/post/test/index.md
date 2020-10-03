@@ -6,7 +6,7 @@ title: "测试"
 featured: false
 
 # links:
-url: 'test.pdf'
+-url: 'test.pdf'
 
 
 # Associated Projects (optional).
