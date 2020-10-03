@@ -6,8 +6,7 @@ title: "测试"
 featured: false
 
 links:
-- name: 
-  url: 'test.png'
+- url: 'test.png'
 # url_code: 'test.png'
 
 
