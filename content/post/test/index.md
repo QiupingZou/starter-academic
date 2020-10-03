@@ -5,8 +5,8 @@ title: "测试"
 # - Source Themes
 featured: false
 
-links:
--url: 'test.png'
+# links:
+url_code: 'test.png'
 
 
 # Associated Projects (optional).
