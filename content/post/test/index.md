@@ -6,7 +6,7 @@ title: "测试"
 featured: false
 
 links:
-- name: 文件链接
+# - name: 文件链接
   url: 'test.png'
 # url_code: 'test.png'
 
