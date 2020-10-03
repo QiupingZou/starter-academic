@@ -6,7 +6,7 @@ title: "测试"
 featured: false
 
 # links:
-url_code: 'test.png'
+url: 'test.png'
 
 
 # Associated Projects (optional).
