@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: 溧阳市科力企业咨询管理有限公司
+title: ""
 
 # Username (this should match the folder name)
 authors:
