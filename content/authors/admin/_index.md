@@ -7,12 +7,6 @@ title: 溧阳市科力企业咨询管理有限公司
 authors:
 - admin
 
-image = "background.png"
-image_darken = 0.6
-image_size = "cover"
-image_position = "center"
-image_parallax = true
-
 # Is this the primary user of the site?
 superuser: true
 
