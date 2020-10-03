@@ -6,16 +6,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: ''
-url_pdf: ''
+- name: 文件链接
 url_code: 'test.png'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 
 # Associated Projects (optional).
