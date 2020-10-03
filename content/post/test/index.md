@@ -3,7 +3,7 @@ title: "测试"
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: 文件链接
@@ -23,6 +23,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: []
+
 ---
 
 {{% alert note %}}
