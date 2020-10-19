@@ -6,7 +6,7 @@ title: "溧阳神光机器厂环保三同时公示"
 featured: false
 
 # links:
--url: '溧阳市神光机器厂机械设备加工项目-验收报告(公示版).pdf'
+-url: '溧阳市神光机器厂机械设备加工项目_验收报告(公示版).pdf'
 
 
 # Associated Projects (optional).
